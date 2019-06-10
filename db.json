@@ -25,5 +25,18 @@
 			"tcyID": "1",
 			"uniqID": 1
 		}
+	],
+	"projectData": [{
+			"ctCode": "1",
+			"projName": "test",
+			"custCoyName": "another",
+			"unitName": "Knocknaree"
+		},
+		{
+			"ctCode": "2",
+			"projName": "test",
+			"custCoyName": "another",
+			"unitName": "Knocknaree"
+		}
 	]
 }
