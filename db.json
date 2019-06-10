@@ -1,11 +1,29 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"siteData": [{
+			"oid": 1,
+			"caratCode": "1",
+			"deleted": 0,
+			"name": "Bangalore",
+			"tcyUniqID": "1",
+			"tcyID": "1",
+			"uniqID": 1
+		}, {
+			"oid": 2,
+			"caratCode": "1",
+			"deleted": 0,
+			"name": "Bangalore",
+			"tcyUniqID": "1",
+			"tcyID": "1",
+			"uniqID": 1
+		},
+		{
+			"oid": 3,
+			"caratCode": "1",
+			"deleted": 0,
+			"name": "Bangalore",
+			"tcyUniqID": "1",
+			"tcyID": "1",
+			"uniqID": 1
+		}
+	]
 }
