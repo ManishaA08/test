@@ -64,5 +64,22 @@
 		"label": "test",
 		"parentID": "344",
 		"uniqID": 234
-	}]
+	}],
+	"processes":[{
+		"processName": "myProcess",
+    		"processID": '0';
+    		"processOwner": "Manisha",
+    		"business": "IS&T";"
+	},
+		{
+		"processName": "myProcess",
+    		"processID": '1';
+    		"processOwner": "Mamamamam",
+    		"business": "IS&T";"
+	},{
+		"processName": "myProcess",
+    		"processID": '2';
+    		"processOwner": "erddds",
+    		"business": "IS&T";"
+	},    ]
 }
