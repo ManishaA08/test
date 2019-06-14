@@ -3,18 +3,29 @@
 			"processName": "myProcess",
 			"processID": "0",
 			"processOwner": "Manisha",
-			"business": "IS&T"
+			"business": "IS&T",
+			"verified": "true"
+			
 		},
 		{
 			"processName": "myProcess",
 			"processID": "1",
 			"processOwner": "Mamamamam",
-			"business": "IS&T"
+			"business": "IS&T",
+			"verified": "false"
 		}, {
 			"processName": "myProcess",
 			"processID": "2",
 			"processOwner": "erddds",
-			"business": "IS&T"
+			"business": "IS&T",
+			"verified": "true"
+		},
+		      {
+			"processName": "myProcess",
+			"processID": "3",
+			"processOwner": "erddds",
+			"business": "IS&T",
+			"verified": "false"
 		}
 	]
 }
