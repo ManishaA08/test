@@ -4,28 +4,28 @@
 			"processID": "0",
 			"processOwner": "Manisha",
 			"business": "IS&T",
-			"verified": "true"
-			
+			"verified": true
+
 		},
 		{
 			"processName": "myProcess",
 			"processID": "1",
 			"processOwner": "Mamamamam",
 			"business": "IS&T",
-			"verified": "false"
+			"verified": false
 		}, {
 			"processName": "myProcess",
 			"processID": "2",
 			"processOwner": "erddds",
 			"business": "IS&T",
-			"verified": "true"
+			"verified": true
 		},
-		      {
+		{
 			"processName": "myProcess",
 			"processID": "3",
 			"processOwner": "erddds",
 			"business": "IS&T",
-			"verified": "false"
+			"verified": false
 		}
 	]
 }
