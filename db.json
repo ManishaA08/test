@@ -5,7 +5,11 @@
 			"processOwner": "Manisha",
 			"business": "IS&T",
 			"verified": true,
-			"activities": ["Cycling", "Riding"]
+			"activities": [{
+				"name": "Cycling"
+			}, {
+				"name": "Riding"
+			}]
 
 		},
 		{
