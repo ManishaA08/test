@@ -4,7 +4,8 @@
 			"processID": "0",
 			"processOwner": "Manisha",
 			"business": "IS&T",
-			"verified": true
+			"verified": true,
+			"activities": ["Cycling", "Riding"]
 
 		},
 		{
