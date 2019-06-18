@@ -2,7 +2,7 @@
 	"processes": [{
 			"processName": "myProcess",
 			"processID": "0",
-			"processOwner": "Manisha",
+			"processOwner": "425835",
 			"business": "337",
 			"verified": true,
 			"activities": [{
@@ -15,20 +15,20 @@
 		{
 			"processName": "myProcess",
 			"processID": "1",
-			"processOwner": "Mamamamam",
+			"processOwner": "425834",
 			"business": "336",
 			"verified": false
 		}, {
 			"processName": "myProcess",
 			"processID": "2",
-			"processOwner": "erddds",
+			"processOwner": "425833",
 			"business": "335",
 			"verified": true
 		},
 		{
 			"processName": "myProcess",
 			"processID": "3",
-			"processOwner": "erddds",
+			"processOwner": "425835",
 			"business": "334",
 			"verified": false
 		}
@@ -62,13 +62,21 @@
 			"oid": "337"
 		}
 	],
-	"absData": [{
-		"code": "sm",
-		"deleted": 0,
-		"label": "test",
-		"parentID": "344",
-		"uniqID": 234
-	}],
+	"process-owner": [{
+			"firstName": "Manisha",
+			"lastName": "Ahlawat",
+			"alpsId": "425835"
+		}, {
+			"firstName": "Varsha",
+			"lastName": "N",
+			"alpsId": "425834"
+		},
+		{
+			"firstName": "Divya",
+			"lastName": "Y",
+			"alpsId": "425833"
+		}
+	],
 	"pbsData": [{
 		"code": "sm",
 		"deleted": 0,
