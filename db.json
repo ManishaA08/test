@@ -52,14 +52,14 @@
 			"code": "J-890",
 			"uniqID": 4,
 			"deleted": 0,
-			"oid": "336"
+			"id": "336"
 		},
 		{
 			"name": "ftgththth",
 			"code": "B-567",
 			"uniqID": 41,
 			"deleted": 0,
-			"oid": "337"
+			"id": "337"
 		}
 	],
 	"process-owner": [{
