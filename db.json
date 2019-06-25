@@ -103,7 +103,7 @@
 			},
 			"name": "Test Process",
 			"processId": "test_04",
-			"user": {
+			"owner": {
 				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d15",
 				"employeeId": "424281",
 				"firstName": "Jogeswar",
