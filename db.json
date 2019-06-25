@@ -15,16 +15,15 @@
 				"lastName": "Sahu",
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
-			"activities": [
-	{
-		"name" : "acttivity_6",
-		"isActive" : true
-	},
-	{
-		"name" : "acttivity_7",
-		"isActive" : true
-	}
-],
+			"activities": [{
+					"name": "acttivity_6",
+					"isActive": true
+				},
+				{
+					"name": "acttivity_7",
+					"isActive": true
+				}
+			],
 			"verified": true
 		},
 		{
@@ -43,16 +42,15 @@
 				"lastName": "Sahu",
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
-			"activities": [
-	{
-		"name" : "acttivity_6",
-		"isActive" : true
-	},
-	{
-		"name" : "acttivity_7",
-		"isActive" : true
-	}
-],
+			"activities": [{
+					"name": "acttivity_6",
+					"isActive": true
+				},
+				{
+					"name": "acttivity_7",
+					"isActive": true
+				}
+			],
 			"verified": true
 		},
 		{
@@ -71,16 +69,15 @@
 				"lastName": "Sahu",
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
-			"activities": [
-	{
-		"name" : "acttivity_6",
-		"isActive" : true
-	},
-	{
-		"name" : "acttivity_7",
-		"isActive" : true
-	}
-],
+			"activities": [{
+					"name": "acttivity_6",
+					"isActive": true
+				},
+				{
+					"name": "acttivity_7",
+					"isActive": true
+				}
+			],
 			"verified": true
 		},
 		{
