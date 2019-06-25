@@ -1,87 +1,117 @@
 {
 	"processes": [{
-			"processName": "myProcess",
-			"processID": "0",
-			"processOwner": "425835",
-			"business": "337",
-			"verified": true,
-			"activities": [{
-				"name": "Cycling"
-			}, {
-				"name": "Riding"
-			}]
-
-		},
-		{
-			"processName": "myProcess",
-			"processID": "1",
-			"processOwner": "425834",
-			"business": "336",
-			"verified": false
-		}, {
-			"processName": "myProcess",
-			"processID": "2",
-			"processOwner": "425833",
-			"business": "335",
+			"id": "75040524-9c9d-45c5-b6e2-7c01d1debed7",
+			"business": {
+				"id": "07111820-fbd0-4b75-82e0-810d14c461b2",
+				"code": "INF",
+				"name": "Infrastructure"
+			},
+			"name": "Test Process updated",
+			"processId": "test_01",
+			"owner": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d14",
+				"employeeId": "424288",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"activities": [],
 			"verified": true
 		},
 		{
-			"processName": "myProcess",
-			"processID": "3",
-			"processOwner": "425835",
-			"business": "334",
-			"verified": false
+			"id": "75687805-6f04-4ecd-a1af-fac829e0fd97",
+			"business": {
+				"id": "157bb7e8-f610-4704-96f0-428b741c09e8",
+				"code": "INF",
+				"name": "Rolling Stock Mainlines"
+			},
+			"name": "Test Process",
+			"processId": "test_02",
+			"user": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d14",
+				"employeeId": "424288",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"activities": [],
+			"verified": true
+		},
+		{
+			"id": "a408d01c-0872-42d7-9fdf-dbdb6fc46328",
+			"business": {
+				"id": "157bb7e8-f610-4704-96f0-428b741c09e8",
+				"code": "INF",
+				"name": "Rolling Stock Mainlines"
+			},
+			"name": "Test Process",
+			"processId": "test_06",
+			"user": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"activities": [],
+			"verified": true
+		},
+		{
+			"id": "acb1755d-95b5-4e3d-bb67-65f6c2acdc30",
+			"business": {
+				"id": "157bb7e8-f610-4704-96f0-428b741c09e8",
+				"code": "INF",
+				"name": "Rolling Stock Mainlines"
+			},
+			"name": "Test Process",
+			"processId": "test_05",
+			"user": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+				"employeeId": "424283",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"activities": [],
+			"verified": true
+		},
+		{
+			"id": "ad06d3c7-889b-482e-82d7-94845b0c8f64",
+			"business": {
+				"id": "157bb7e8-f610-4704-96f0-428b741c09e8",
+				"code": "INF",
+				"name": "Rolling Stock Mainlines"
+			},
+			"name": "Test Process",
+			"processId": "test_03",
+			"user": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d15",
+				"employeeId": "424281",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"activities": [],
+			"verified": true
+		},
+		{
+			"id": "e67d8e15-6997-44c5-908e-f04d3324b3c5",
+			"business": {
+				"id": "157bb7e8-f610-4704-96f0-428b741c09e8",
+				"code": "INF",
+				"name": "Rolling Stock Mainlines"
+			},
+			"name": "Test Process",
+			"processId": "test_04",
+			"user": {
+				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d15",
+				"employeeId": "424281",
+				"firstName": "Jogeswar",
+				"lastName": "Sahu",
+				"email": "jogeswar.sahu@alstomgroup.com"
+			},
+			"activities": [],
+			"verified": true
 		}
-	],
-	"businessData": [{
-			"name": "test",
-			"code": "Y-098",
-			"uniqID": 1,
-			"deleted": 0,
-			"id": "334"
-		},
-		{
-			"name": "dfdf",
-			"code": "K-13",
-			"uniqID": 2,
-			"deleted": 0,
-			"id": "335"
-		},
-		{
-			"name": "safav",
-			"code": "J-890",
-			"uniqID": 4,
-			"deleted": 0,
-			"id": "336"
-		},
-		{
-			"name": "ftgththth",
-			"code": "B-567",
-			"uniqID": 41,
-			"deleted": 0,
-			"id": "337"
-		}
-	],
-	"process-owner": [{
-			"firstName": "Manisha",
-			"lastName": "Ahlawat",
-			"alpsId": "425835"
-		}, {
-			"firstName": "Varsha",
-			"lastName": "N",
-			"alpsId": "425834"
-		},
-		{
-			"firstName": "Divya",
-			"lastName": "Y",
-			"alpsId": "425833"
-		}
-	],
-	"pbsData": [{
-		"code": "sm",
-		"deleted": 0,
-		"label": "test",
-		"parentID": "344",
-		"uniqID": 234
-	}]
+	]
 }
