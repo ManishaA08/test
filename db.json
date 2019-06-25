@@ -27,7 +27,7 @@
 			},
 			"name": "Test Process",
 			"processId": "test_02",
-			"user": {
+			"owner": {
 				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d14",
 				"employeeId": "424288",
 				"firstName": "Jogeswar",
@@ -46,7 +46,7 @@
 			},
 			"name": "Test Process",
 			"processId": "test_06",
-			"user": {
+			"owner": {
 				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
 				"employeeId": "424283",
 				"firstName": "Jogeswar",
@@ -65,7 +65,7 @@
 			},
 			"name": "Test Process",
 			"processId": "test_05",
-			"user": {
+			"owner": {
 				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
 				"employeeId": "424283",
 				"firstName": "Jogeswar",
@@ -84,7 +84,7 @@
 			},
 			"name": "Test Process",
 			"processId": "test_03",
-			"user": {
+			"owner": {
 				"id": "19a617db-2b6a-4c38-ada6-3c655cc58d15",
 				"employeeId": "424281",
 				"firstName": "Jogeswar",
