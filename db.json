@@ -174,18 +174,24 @@
 		}
 	],
 	"process-owner": [{
+			"id": "19a617db-2b6a-4c38-ada6-3c655cc58d16",
+			"employeeId": "425835",
 			"firstName": "Manisha",
 			"lastName": "Ahlawat",
-			"alpsId": "425835"
+			"email": "manisha.ahlawat@alstomgroup.com"
 		}, {
+			"id": "19a617db-2b6a-4c38-ada6-3c655cc58d17",
 			"firstName": "Varsha",
 			"lastName": "N",
-			"alpsId": "425834"
+			"employeeId": "425834",
+			"email": "Varsha.N@alstomgroup.com"
 		},
 		{
+			"id": "19a617db-2b6a-4c38-ada6-3c655cc58d19",
 			"firstName": "Divya",
 			"lastName": "Y",
-			"alpsId": "425833"
+			"employeeId": "425837",
+			"email": "Divya.y@alstomgroup.com"
 		}
 	]
 }
