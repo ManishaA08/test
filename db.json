@@ -26,7 +26,7 @@
 					"isActive": true
 				}
 			],
-			"verified": true
+			"isVerified": true
 		},
 		{
 			"id": "75687805-6f04-4ecd-a1af-fac829e0fd97",
@@ -55,7 +55,7 @@
 					"isActive": true
 				}
 			],
-			"verified": true
+			"isVerified": false
 		},
 		{
 			"id": "a408d01c-0872-42d7-9fdf-dbdb6fc46328",
@@ -84,7 +84,7 @@
 					"isActive": true
 				}
 			],
-			"verified": true
+			"isVerified": true
 		},
 		{
 			"id": "acb1755d-95b5-4e3d-bb67-65f6c2acdc30",
@@ -103,7 +103,7 @@
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
 			"activities": [],
-			"verified": true
+			"isVerified": false
 		},
 		{
 			"id": "ad06d3c7-889b-482e-82d7-94845b0c8f64",
@@ -122,7 +122,7 @@
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
 			"activities": [],
-			"verified": true
+			"isVerified": true
 		},
 		{
 			"id": "e67d8e15-6997-44c5-908e-f04d3324b3c5",
@@ -141,7 +141,7 @@
 				"email": "jogeswar.sahu@alstomgroup.com"
 			},
 			"activities": [],
-			"verified": true
+			"isVerified": true
 		}
 	],
 	"businessData": [{
