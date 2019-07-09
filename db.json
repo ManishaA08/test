@@ -195,5 +195,16 @@
 			"employeeId": "425837",
 			"email": "Divya.y@alstomgroup.com"
 		}
-	]
+	],
+	"rights": {
+		"MDVW": true,
+		"TVW": true,
+		"TE": false,
+		"QE": true,
+		"QVW": true,
+		"TCN": true,
+		"TR": true,
+		"TA": false,
+		"TV": true
+	}
 }
