@@ -40,5 +40,42 @@
 				}
 			]
 		}
+	},
+
+	"selectedDomainDetails": {
+		"config": {
+			"objects": [{
+					"id": "33787a03560f5d6c272cbffd865a8e31",
+					"type": "Repository",
+					"name": "Repo1",
+					"objects": [{
+							"id": "10101",
+							"type": "Folder",
+							"objects": [],
+							"name": "folder_r1_3"
+						}
+					]
+				},
+				{
+					"id": "55787a03560f5d6c272cbffd865a8e31",
+					"type": "Repository",
+					"name": "Repo3",
+					"objects": [{
+							"id": "9338",
+							"type": "Folder",
+							"objects": [],
+							"name": "folder_r3_1"
+
+						},
+						{
+							"id": "11337",
+							"type": "Folder",
+							"objects": [],
+							"name": "folder_r3_2"
+						}
+					]
+				}
+			]
+		}
 	}
 }
