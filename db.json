@@ -1,42 +1,44 @@
 {
-	"config": {
-		"objects": [{
-				"id": "33787a03560f5d6c272cbffd865a8e31",
-				"type": "Repository",
-				"name": "Repo1",
-				"objects": [{
-						"id": "8",
-						"type": "Folder",
-						"objects": [],
-						"name": "folder_r1_1"
-					},
-					{
-						"id": "11",
-						"type": "Folder",
-						"objects": [],
-						"name": "folder_r1_2"
-					}
-				]
-			},
-			{
-				"id": "55787a03560f5d6c272cbffd865a8e31",
-				"type": "Repository",
-				"name": "Repo1",
-				"objects": [{
-						"id": "98",
-						"type": "Folder",
-						"objects": [],
-						"name": "folder_r2_1"
+	"allDomainDetails": {
+		"config": {
+			"objects": [{
+					"id": "33787a03560f5d6c272cbffd865a8e31",
+					"type": "Repository",
+					"name": "Repo1",
+					"objects": [{
+							"id": "8",
+							"type": "Folder",
+							"objects": [],
+							"name": "folder_r1_1"
+						},
+						{
+							"id": "11",
+							"type": "Folder",
+							"objects": [],
+							"name": "folder_r1_2"
+						}
+					]
+				},
+				{
+					"id": "55787a03560f5d6c272cbffd865a8e31",
+					"type": "Repository",
+					"name": "Repo1",
+					"objects": [{
+							"id": "98",
+							"type": "Folder",
+							"objects": [],
+							"name": "folder_r2_1"
 
-					},
-					{
-						"id": "117",
-						"type": "Folder",
-						"objects": [],
-						"name": "folder_r2_2"
-					}
-				]
-			}
-		]
+						},
+						{
+							"id": "117",
+							"type": "Folder",
+							"objects": [],
+							"name": "folder_r2_2"
+						}
+					]
+				}
+			]
+		}
 	}
 }
