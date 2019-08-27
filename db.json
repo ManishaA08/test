@@ -2,26 +2,26 @@
 	"allDomainDetails": {
 		"config": {
 			"objects": [{
-					"id": "33787a03560f5d6c272cbffd865a8e31",
+					"id": "r1",
 					"type": "Repository",
 					"name": "Repo1",
 					"objects": [{
-							"id": "228",
+							"id": "_f1",
 							"type": "Folder",
 							"objects": [{
-									"id": "8",
+									"id": "_ff1",
 									"type": "Folder",
 									"objects": [],
 									"name": "folder_r1_1_1"
 								},
 								{
-									"id": "128",
+									"id": "_ff2",
 									"type": "Folder",
 									"objects": [],
 									"name": "folder_r1_1_2"
 								},
 								{
-									"id": "10101",
+									"id": "_ff3",
 									"type": "Folder",
 									"objects": [],
 									"name": "folder_r1_3"
@@ -30,7 +30,7 @@
 							"name": "folder_r1_1"
 						},
 						{
-							"id": "11",
+							"id": "_f1",
 							"type": "Folder",
 							"objects": [],
 							"name": "folder_r1_2"
@@ -38,18 +38,18 @@
 					]
 				},
 				{
-					"id": "55787a03560f5d6c272cbffd865a8e32",
+					"id": "r2",
 					"type": "Repository",
 					"name": "Repo2",
 					"objects": [{
-							"id": "98",
+							"id": "_f1",
 							"type": "Folder",
 							"objects": [],
 							"name": "folder_r2_1"
 
 						},
 						{
-							"id": "117",
+							"id": "_f2",
 							"type": "Folder",
 							"objects": [],
 							"name": "folder_r2_2"
@@ -57,18 +57,18 @@
 					]
 				},
 				{
-					"id": "55787a03560f5d6c272cbffd865a8e33",
+					"id": "r3",
 					"type": "Repository",
 					"name": "Repo3",
 					"objects": [{
-							"id": "9338",
+							"id": "_f1",
 							"type": "Folder",
 							"objects": [],
 							"name": "folder_r3_1"
 
 						},
 						{
-							"id": "11337",
+							"id": "_f2",
 							"type": "Folder",
 							"objects": [],
 							"name": "folder_r3_2"
@@ -82,29 +82,29 @@
 	"selectedDomainDetails": {
 		"config": {
 			"objects": [{
-					"id": "33787a03560f5d6c272cbffd865a8e31",
+					"id": "r1",
 					"type": "Repository",
 					"name": "Repo1",
 					"objects": [{
-						"id": "10101",
+						"id": "_f3",
 						"type": "Folder",
 						"objects": [],
 						"name": "folder_r1_3"
 					}]
 				},
 				{
-					"id": "55787a03560f5d6c272cbffd865a8e33",
+					"id": "r3",
 					"type": "Repository",
 					"name": "Repo3",
 					"objects": [{
-							"id": "9338",
+							"id": "_f1",
 							"type": "Folder",
 							"objects": [],
 							"name": "folder_r3_1"
 
 						},
 						{
-							"id": "11337",
+							"id": "_f2",
 							"type": "Folder",
 							"objects": [],
 							"name": "folder_r3_2"
