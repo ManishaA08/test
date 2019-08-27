@@ -6,9 +6,21 @@
 					"type": "Repository",
 					"name": "Repo1",
 					"objects": [{
-							"id": "8",
+							"id": "228",
 							"type": "Folder",
-							"objects": [],
+							"objects": [{
+									"id": "8",
+									"type": "Folder",
+									"objects": [],
+									"name": "folder_r1_1"
+								},
+								{
+									"id": "128",
+									"type": "Folder",
+									"objects": [],
+									"name": "folder_r1_1"
+								}
+							],
 							"name": "folder_r1_1"
 						},
 						{
@@ -49,12 +61,11 @@
 					"type": "Repository",
 					"name": "Repo1",
 					"objects": [{
-							"id": "10101",
-							"type": "Folder",
-							"objects": [],
-							"name": "folder_r1_3"
-						}
-					]
+						"id": "10101",
+						"type": "Folder",
+						"objects": [],
+						"name": "folder_r1_3"
+					}]
 				},
 				{
 					"id": "55787a03560f5d6c272cbffd865a8e31",
